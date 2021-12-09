@@ -1,5 +1,6 @@
 /* BACKGROUND AND BODY */
 body {
+    min-width: 750px;
     margin: 0;
     padding: 0;
     background-color: #303853;
